@@ -25,11 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./public/social links profile preview.png)
+![Social Links Profile Preview](./public/social-links-profile-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oloude)
+- Solution URL: [Github](https://github.com/oloude)
 
 ## My process
 
@@ -61,5 +61,5 @@ function Link({ name }: LinkProps) {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Oloude)
-- Twitter - [@yourusername](https://www.twitter.com/AbosedeOloude)
+- Frontend Mentor - [@Oloude](https://www.frontendmentor.io/profile/Oloude)
+- Twitter - [@AbosedeOloude](https://www.twitter.com/AbosedeOloude)
